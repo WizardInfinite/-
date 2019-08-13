@@ -1,5 +1,7 @@
 {
 	"description": "项目配置文件",
+	"miniprogramRoot": "frontend/",
+	"cloudfunctionRoot": "backend/",
 	"packOptions": {
 		"ignore": []
 	},
@@ -9,13 +11,12 @@
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
-		"autoAudits": false,
-		"coverView": true
+		"autoAudits": false
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
 	"appid": "wxa342622a5d87baa0",
-	"projectname": "app",
+	"projectname": "01_bak",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

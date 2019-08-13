@@ -1,0 +1,10 @@
+<!--logs.wxml-->
+
+
+
+  <!-- <button type="primary" bindtap="sum">求和</button> -->
+  <img src="{{userInfo.avatarUrl}}" alt="">
+  <view wx:if={{userInfo.nickName}}>
+  </view>
+
+  
